@@ -9,3 +9,7 @@ Implementation of some design patterns is Java for educational purpose.
 * Builder
 * Factory
 * Abstract factory
+
+### Behavioral
+* Chain of responsability
+* Command
