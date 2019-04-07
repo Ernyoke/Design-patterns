@@ -9,7 +9,7 @@ import org.junit.jupiter.api.TestInstance;
 public class TemplateMethodTests {
     @Test
     @DisplayName("Should test the template methods!")
-    public void testToggleCommand() {
+    public void testTemplateMethod() {
         DataRenderer xmlDataRenderer = new XMLDataRenderer();
         DataRenderer csvDataRenderer = new CSVDataRenderer();
         DataRenderer htmlDataRenderer = new HTMLDataRenderer();
