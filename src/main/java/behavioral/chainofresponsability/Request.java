@@ -1,13 +1,13 @@
 package behavioral.chainofresponsability;
 
 public class Request {
-    private int ammount;
+    private int amount;
 
-    public Request(int ammount) {
-        this.ammount = ammount;
+    public Request(int amount) {
+        this.amount = amount;
     }
 
-    public int getAmmount() {
-        return ammount;
+    public int getAmount() {
+        return amount;
     }
 }
