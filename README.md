@@ -2,7 +2,7 @@
 
 Implementation of some design patterns is Java for educational purpose.
 
-## Patterns
+## Core patterns
 ### Creational
 * Singleton
 * Prototype
@@ -13,3 +13,4 @@ Implementation of some design patterns is Java for educational purpose.
 ### Behavioral
 * Chain of responsability
 * Command
+* Template method
