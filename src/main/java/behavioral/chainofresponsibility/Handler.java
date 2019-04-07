@@ -1,4 +1,4 @@
-package behavioral.chainofresponsability;
+package behavioral.chainofresponsibility;
 
 public abstract class Handler {
     protected Handler successor;

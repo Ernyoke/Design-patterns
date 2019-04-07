@@ -1,4 +1,4 @@
-package behavioral.chainofresponsability;
+package behavioral.chainofresponsibility;
 
 public class Request {
     private int amount;

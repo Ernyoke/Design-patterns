@@ -1,4 +1,4 @@
-package behavioral.chainofresponsability;
+package behavioral.chainofresponsibility;
 
 public class CEO extends Handler {
     public void handleRequest(Request request) {

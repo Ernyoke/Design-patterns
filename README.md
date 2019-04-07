@@ -11,7 +11,10 @@ Implementation of some design patterns is Java for educational purpose.
 * Abstract factory
 
 ### Behavioral
-* Adapter
-* Chain of responsability
+* Chain of responsibility
 * Command
 * Template method
+
+### Structural
+* Adapter
+* Flyweight

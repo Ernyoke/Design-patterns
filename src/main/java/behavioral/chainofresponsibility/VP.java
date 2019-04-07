@@ -1,4 +1,4 @@
-package behavioral.chainofresponsability;
+package behavioral.chainofresponsibility;
 
 public class VP extends Handler {
     public void handleRequest(Request request) {

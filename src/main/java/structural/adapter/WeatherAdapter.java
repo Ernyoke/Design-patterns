@@ -1,4 +1,4 @@
-package behavioral.adapter;
+package structural.adapter;
 
 import java.util.Optional;
 public class WeatherAdapter {

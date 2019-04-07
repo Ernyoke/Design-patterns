@@ -1,4 +1,4 @@
-package behavioral.adapter;
+package structural.adapter;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
