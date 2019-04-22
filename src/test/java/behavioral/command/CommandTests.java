@@ -30,7 +30,7 @@ public class CommandTests {
     public void testToggleCommand() {
         bedRoomLight.toggle();
         System.out.println("-------");
-        allLightsCommand.execute();
-        allLightsCommand.execute();
+        lightSwitch.storeAndExecute(allLightsCommand);
+        lightSwitch.storeAndExecute(allLightsCommand);
     }
 }

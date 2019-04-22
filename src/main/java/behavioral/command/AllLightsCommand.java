@@ -11,6 +11,6 @@ public class AllLightsCommand implements Command {
     }
 
     public void execute() {
-        lights.stream().filter(Light::isOn).forEach(light -> light.toggle());
+        lights.stream().filter(Light::isOn).forEach(Light::toggle);
     }
 }
